@@ -7,3 +7,5 @@
 # 3)finding gcd of two numbers
 
 # 4)finding the lcm of two numbers
+
+# 5) finding the josephus problem
